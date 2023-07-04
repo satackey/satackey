@@ -1,7 +1,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs" align="left">
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs" align="left">](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs" align="left">](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
