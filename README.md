@@ -10,5 +10,5 @@
 [Blog](https://blog.satackey.com) /
 [Hatena Blog](https://satackey.hatenablog.com)
 
-[Nostr](https://iris.to/satackey) /
+[Nostr (Iris)](https://iris.to/satackey) /
 [Twitter](https://twitter.com/satakenkoki)
