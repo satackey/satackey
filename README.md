@@ -8,10 +8,10 @@
 </p>
 <p>
 
-  [Qiita](https://qiita.com/satackey)
-  [Zenn](https://zenn.dev/satackey)
-  [SpeakerDeck](https://speakerdeck.com/satackey)
-  [Blog](https://blog.satackey.com)
+  [Qiita](https://qiita.com/satackey) /
+  [Zenn](https://zenn.dev/satackey) /
+  [SpeakerDeck](https://speakerdeck.com/satackey) /
+  [Blog](https://blog.satackey.com) /
   [Hatena Blog](https://satackey.hatenablog.com)
 
   [Nostr](https://iris.to/satackey) [Twitter](https://twitter.com/satakenkoki)
