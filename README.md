@@ -4,7 +4,7 @@
   <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satackey&langs_count=10&layout=compact&theme=default" width="300" height="215">
 </picture>
 
-I'm a student who loves containers and TypeScript. :grin:
+I'm a software engineer who loves containers and TypeScript. :grin:
 
 [Qiita](https://qiita.com/satackey) /
 [Zenn](https://zenn.dev/satackey) /
